@@ -1029,7 +1029,7 @@ url("./fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d") format("wof
 .bi-play-btn::before { content: "\f4f1"; }
 .bi-play-circle-fill::before { content: "\f4f2"; }
 .bi-play-circle::before { content: "\f4f3"; }
-.bi-play-fill::before { content: "\f4f4"; }
+.bi-play-fill::before { content: "\f4f4"; color: #0078FF;}
 .bi-play::before { content: "\f4f5"; }
 .bi-plug-fill::before { content: "\f4f6"; }
 .bi-plug::before { content: "\f4f7"; }
